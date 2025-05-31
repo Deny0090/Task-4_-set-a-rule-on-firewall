@@ -23,3 +23,5 @@ It checks through the following packets against rules in order, and if the packe
   2.Allowing port 80 will allow web traffic.
 
 Firewalls can filter at the network/transport layer (IP/port) or at the application layer (specific programs). 
+
+i cannot provide rules set in the windows defender fire wall
